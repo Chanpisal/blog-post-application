@@ -12,13 +12,6 @@ A simple web-based blog application that lets users create, edit, and delete blo
 - Responsive layout for smaller screens
 - Simple and clean user interface
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- DOM manipulation
-
 ## Reference
 
 OpenAI. (2026). ChatGPT [Large language model]. https://chatgpt.com
